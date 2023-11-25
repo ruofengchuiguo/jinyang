@@ -1,3 +1,5 @@
+package org.apache.commons.lang3;
+
 import org.apache.commons.lang3.CharUtils;
 
 public class MainCharUtilsTest {
